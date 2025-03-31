@@ -145,7 +145,7 @@
 
     <section id="about">
         <h2>About Me</h2>
-        <p>Hi, I'm Esther Maina, a passionate technology enthusiast with a deep interest in web development, cybersecurity, blockchain and Web3, game development, Internet of Things (IoT), and Artificial Intelligence and Machine Learning. I love exploring emerging trends in technology, building innovative solutions, and enhancing security in digital landscapes. I would love to become an expert in creating immersive web experiences, securing networks, developing decentralized applications, and leveraging AI for smart automation. I am focused on learning and diving into different areas of technology because I want to be flexible and I don't want to limit myself to one area. I aim to do this by tackling one area at a time.</p>
+        <p>Hi, I'm Esther Maina, a passionate technology enthusiast with a deep interest in web development, cybersecurity, blockchain and Web3, game development, Internet of Things (IoT), and Artific[...]
     </section>
 
     <section id="education">
@@ -182,19 +182,19 @@
         <h2>Projects</h2>
         <div class="project">
             <h3>Project 1: Britons Restaurant</h3>
-            <p>I have made a webpage for a restaurant called Britons Restaurant where I have used HTML and CSS to create this webpage. <a href="https://github.com/PLP-WebTechnologies/feb-2025-css-layouts-and-responsive-design-Essie-chestter.git">View Project</a></p>
+            <p>I have made a webpage for a restaurant called Britons Restaurant where I have used HTML and CSS to create this webpage. <a href="https://github.com/PLP-WebTechnologies/feb-2025-css-layo[...]
         </div>
         <div class="project">
             <h3>Project 2: Python File Reader and Writer</h3>
-            <p>I have created a program that reads files and writes a modified version to a new file. I have created this file handling and exception handling program using python. It asks the user for a filename and handles errors if it doesn't exist or can't be read. <a href="https://github.com/Essie-chestter/python-assignment-week-4.git">View Project</a></p>
+            <p>I have created a program that reads files and writes a modified version to a new file. I have created this file handling and exception handling program using python. It asks the user fo[...]
         </div>
         <div class="project">
             <h3>Project 3: Python Discount Calculator</h3>
-            <p>I have created a python function that calculates the final price after applying a discount. <a href="https://github.com/Essie-chestter/python-assignment-week-three.git">View Project</a></p>
+            <p>I have created a python function that calculates the final price after applying a discount. <a href="https://github.com/Essie-chestter/python-assignment-week-three.git">View Project</a>[...]
         </div>
         <div class="project">
             <h3>Project 4: Python Puzzle Game</h3>
-            <p>I have created a simple puzzle game using Python. This is a brief description of how the simple puzzle game works: Displaying the Board: The display_board() function shows the current layout of the board in a readable format. Checking the Solution: The is_solved() function checks if the puzzle is in the solved state (i.e., the numbers are in order from 1 to 8 with the empty spot at the bottom-right). Making Moves: The make_move() function allows the player to move the empty space in one of four directions: up, down, left, or right. The move is only valid if the empty space is next to the move direction. Shuffling the Board: The shuffle_board() function creates a random starting state for the puzzle by making random moves starting from the solved state. Main Game Loop: The puzzle_game() function runs the game, continuously displaying the board and asking for player input until the puzzle is solved.  <a href="https://github.com/Essie-chestter/simple-puzzle-game.py.git">View Project</a></p>
+            <p>I have created a simple puzzle game using Python. This is a brief description of how the simple puzzle game works: Displaying the Board: The display_board() function shows the current l[...]
         </div>
         <div class="project">
             <h3>Project 5: Movie Booking Program</h3>
