@@ -1,1 +1,1 @@
-i have created a portfolio using HTML and CSS. I have included information about myself, my interests,educational background,my cv, my areas of proficiency and a contact form
+i have created a portfolio using HTML and CSS. I have included information about myself, my interests,educational background,my cv, the languages I'm learning as of now since i am a begginer and a contact form.
